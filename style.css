@@ -1,0 +1,24 @@
+ h1{
+   Font-family: Helvetica;
+   color: seashell;
+   opacity: 0.9;
+   background-color: black;
+    text-align: left;
+  
+ }
+
+
+
+
+.body {
+   background-color: black;
+    border: 0;
+    font-family: Helvetica
+  
+}
+
+ .container {
+margin-bottom: 20%;
+
+}
+
