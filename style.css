@@ -10,10 +10,11 @@
 
 
 
-.body {
+body {
    background-color: black;
     border: 0;
-    font-family: Helvetica
+    font-family: Helvetica;
+    color: azure;
   
 }
 
